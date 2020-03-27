@@ -1,8 +1,8 @@
 {
-  "name": "progressive-image-element",
+  "name": "{{name}}",
   "version": "1.2.0",
-  "description": "A progressive image element",
-  "author": "André Ruffert",
+  "description": "{{description}}",
+  "author": "{{author}}",
   "license": "MIT",
   "repository": "andreruffert/progressive-image-element",
   "source": "index.js",
