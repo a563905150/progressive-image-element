@@ -29,11 +29,6 @@
     "ui"
   ],
   "devDependencies": {
-    "@babel/plugin-proposal-optional-chaining": "^7.9.0",
-    "@cypress/browserify-preprocessor": "^2.1.4",
-    "conventional-changelog-cli": "^2.0.31",
-    "cypress": "^4.1.0",
-    "parcel-bundler": "^1.12.4"
   },
   "dependencies": {
     "chalk": "^3.0.0"
